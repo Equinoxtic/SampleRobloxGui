@@ -15,7 +15,7 @@ gui.MenuButton.BackgroundTransparency = 0.55 -- Button BG Transparency
 gui.MenuButton.Font = Enum.Font.PermanentMarker -- Button Font
 
 gui.CreditLabel.Text = "GUI Template by Vertic" -- Credit Text
-gui.CreditLabel.BackgroundTransparency = 0.55 -- Credit BG Transparency
+gui.CreditLabel.BackgroundTransparency = 0 -- Credit BG Transparency
 gui.CreditLabel.Font = Enum.Font.PermanentMarker -- Credit Font
 
 gui.GameInfo.Text = "Game - Version 0.1" -- Game Info Text
